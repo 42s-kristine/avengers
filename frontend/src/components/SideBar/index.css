@@ -1,0 +1,6 @@
+.side-container {
+    border: solid 3px red;
+    width: 15vw;
+    height: 100vh;
+    position: absolute;
+}
